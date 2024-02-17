@@ -12,6 +12,16 @@
             Console.Write($"Элемент {i + 1}: ");
             originalArray[i] = Console.ReadLine();
         }
+ // Фильтрация массива
+        string[] filteredArray = FilterStrings(originalArray);
+
+        // Вывод результата
+        Console.WriteLine("Результирующий массив:");
+        foreach (string str in filteredArray)
+        {
+            Console.WriteLine(str);
+        }
+    
 
     
         
