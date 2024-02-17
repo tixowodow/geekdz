@@ -1,0 +1,15 @@
+/Users/ilatihovodov/geekdz/bin/Debug/net8.0/geekdz
+/Users/ilatihovodov/geekdz/bin/Debug/net8.0/geekdz.deps.json
+/Users/ilatihovodov/geekdz/bin/Debug/net8.0/geekdz.runtimeconfig.json
+/Users/ilatihovodov/geekdz/bin/Debug/net8.0/geekdz.dll
+/Users/ilatihovodov/geekdz/bin/Debug/net8.0/geekdz.pdb
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.AssemblyInfoInputs.cache
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.AssemblyInfo.cs
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.csproj.CoreCompileInputs.cache
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.sourcelink.json
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.dll
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/refint/geekdz.dll
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.pdb
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/geekdz.genruntimeconfig.cache
+/Users/ilatihovodov/geekdz/obj/Debug/net8.0/ref/geekdz.dll
